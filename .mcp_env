@@ -1,0 +1,5 @@
+# .mcp_env 文件（存储GitHub敏感信息，不可提交到Git）
+# 1. 替换为你的GitHub个人访问令牌（需含repo权限）
+MCP_GITHUB_TOKEN=ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# 2. 替换为harmony仓库所属的GitHub组织名/用户名（如仓库地址是https://github.com/my-team/harmony，填my-team）
+GITHUB_EVAL_ORG=my-team-harmony
